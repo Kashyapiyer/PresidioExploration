@@ -2,7 +2,7 @@
 
 * Features PII detection and PII detected attribute extraction 
 * Uses English dataset sourced from synthetic dataset provisioned by Department for Artificial Intelligence, Jožef Stefan Institute(https://ailab.ijs.si/) funded by the European Union
-* Features Benchmarking using specified dataset capturing Presidio failure scenarios
+* Features Benchmarking on specified dataset capturing Presidio failure scenarios
 
 
 References : 
