@@ -1,8 +1,8 @@
 # PII Detection using custom validator based on Presidio 
 
 * Features PII detection and PII detected attribute extraction 
-* Uses English dataset sourced from synthetic dataset provisioned by Department for Artificial Intelligence, Jožef Stefan Institute(https://ailab.ijs.si/) to Benchmark PII detection which is funded by the European Union
-* Features Benchmarks using specified dataset along with Presidio failure scenarios
+* Uses English dataset sourced from synthetic dataset provisioned by Department for Artificial Intelligence, Jožef Stefan Institute(https://ailab.ijs.si/) funded by the European Union
+* Features Benchmarking using specified dataset capturing Presidio failure scenarios
 
 
 References : 
